@@ -1,2 +1,2 @@
 file1.txt
-fil1.txt - added this line
+file1.txt - added this line
