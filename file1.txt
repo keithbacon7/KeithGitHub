@@ -1,2 +1,3 @@
 file1.txt
 file1.txt - added this line
+file1.txt - and another!
