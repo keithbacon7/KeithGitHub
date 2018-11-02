@@ -2,5 +2,6 @@ file1.txt
 file1.txt - added this line
 file1.txt - and another!
 line4 - changed for fix01
-line5
+line5 -  - fix01 commit2
 fix01 line 6 added
+fix01 commit2
